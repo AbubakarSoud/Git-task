@@ -57,6 +57,6 @@ body{
     margin: 0 0px;
 }
 .btn:hover{
-    color:red;
+    color:blue;
     transition: all 0.6s ease;
 }
